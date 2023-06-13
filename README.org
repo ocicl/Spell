@@ -1,0 +1,10 @@
+* Spell
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/robert-strandh/Spell.git   |
+| commit  | d2ae948  |
+| systems | Spell |
+|---------+-------------------------------------------|
+
