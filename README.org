@@ -4,6 +4,6 @@
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/robert-strandh/Spell.git |
-| commit  | 926da5d                                         |
+| commit  | 3a94d6b                                         |
 | systems | spell                                           |
 |---------+-------------------------------------------------|
